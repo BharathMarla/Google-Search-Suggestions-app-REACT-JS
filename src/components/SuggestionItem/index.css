@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.list-style {
+  margin-top: 1px;
+}
+.list-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.arrow-img {
+  width: 25px;
+  height: 25px;
+}
